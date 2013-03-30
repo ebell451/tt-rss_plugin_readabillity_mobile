@@ -1,4 +1,4 @@
-tt-rss_plugin_readability
+tt-rss_plugin_readability_mobile
 =======================
 
 This is a plugin for Tiny Tiny RSS (tt-rss). It allows you to view articles in Readability's Mobile view (text only).
@@ -7,4 +7,4 @@ This is a plugin for Tiny Tiny RSS (tt-rss). It allows you to view articles in R
 
 2. Enable the plugin in preferences.
 
-More information can be found here: 
+More information can be found here: http://tt-rss.org/forum/viewtopic.php?f=22&t=1601
