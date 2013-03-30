@@ -1,4 +1,10 @@
-tt-rss_plugin_readabillity_mobile
-=================================
+tt-rss_plugin_readability
+=======================
 
-This is a Tiny Tiny RSS (tt-rss) plugin that allows you to view an article in Readability's mobile view.
+This is a plugin for Tiny Tiny RSS (tt-rss). It allows you to view articles in Readability's Mobile view (text only).
+
+1. Place the readability_mobile folder into the plugin folder of your tt-rss installation. By default this will be tt-rss/plugins.
+
+2. Enable the plugin in preferences.
+
+More information can be found here: 
