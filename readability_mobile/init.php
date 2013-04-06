@@ -11,7 +11,7 @@ class readability_mobile extends Plugin {
 	}
 
 	function about() {
-		return array(1.0,
+		return array(1.5,
 			"This will allow you to view the article in Readability Mobile - Text Only Mode.",
 			"ebell451");
 	}
